@@ -1,0 +1,91 @@
+{
+    "name": "TripIt",
+    "description": "TripIt organizes your travel plans in one place. Finds alternative flights. Sends real-time alerts. Snags the best seat. We have something for every traveler.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/505-tripit.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tripit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TripIt",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/505-tripit.jpg",
+            "humanURL": "http:\/\/www.tripit.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tripit-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tripit-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.tripit.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.tripit.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/TripitBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/tripit"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/tripit"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.tripit.com\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "plans@tripit.com"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@tripit.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@tripit.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@tripit.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/tripit"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.tripit.com\/teams\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/tripit"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tripit.com"
+        }
+    ]
+}
